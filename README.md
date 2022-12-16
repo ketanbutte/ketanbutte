@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate data professional from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketanbutte" alt="ketanbutte" /></a> </p>
-
 - 💬 Ask me about **pandas,data analytics,python**
 
 - 📫 How to reach me **ketanbutte98@gmail.com**
